@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sao-ka0n.github.io/youtube-likes-organizer-service/sitemap.xml
